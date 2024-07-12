@@ -9,7 +9,7 @@ public class Demo01Scanner {
         // System.out.println(cheng(10));
         // revert(new int[]{1, 2, 3, 4, 5, 6, 7});
         // paidui(new int[]{3, 1, 7, 3, 4, 5, 5, 9, 1, 0, 2, 4});
-        erfen(new int[]{1,4,7,9,11,12,13,15,17,19,23}, 7);
+        erfen2(new int[]{1, 4, 7, 9, 11, 12, 13, 15, 17, 19, 23}, 7);
 
     }
 
@@ -72,5 +72,23 @@ public class Demo01Scanner {
                 break;
             }
         }
+    }
+
+    public static void erfen2(int[] iList, int target) {
+        int min = 0;
+        int mid = 0;
+        int max = iList.length - 1;
+        while (min <= max) {
+            mid = (min + max) / 2;
+            if (target > iList[mid]) {
+                min = mid + 1;
+            } else if (target < iList[mid]) {
+                max = mid - 1;
+            } else {
+                System.out.println(mid);
+                return;
+            }
+        }
+        System.out.println("不存在");
     }
 }
