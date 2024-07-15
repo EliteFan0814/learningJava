@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6de7af2-9cc8-4b00-ac65-bc6bcdc5090e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/extend/extend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studentManager/src/com/atguigu/studentManager/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studentManager/src/com/atguigu/studentManager/StudentView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studentManager/src/com/atguigu/studentManager/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studentManager/studentManager.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/JavaEeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/SouImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3/src/com/atguigu/a_scanner/Demo01Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/module3/src/com/atguigu/a_scanner/Demo01Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module3/com/atguigu/a_scanner/Demo01Scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/module3/com/atguigu/a_scanner/Demo01Scanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/extend/com/atguigu/extend/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/extend/com/atguigu/extend/Test01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,21 +38,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.atguigu.studentManager" />
@@ -106,7 +103,8 @@
       <workItem from="1719886724218" duration="15559000" />
       <workItem from="1720143158049" duration="44000" />
       <workItem from="1720598873049" duration="1131000" />
-      <workItem from="1720668002613" duration="21212000" />
+      <workItem from="1720668002613" duration="21422000" />
+      <workItem from="1721015404137" duration="4422000" />
     </task>
     <servers />
   </component>
