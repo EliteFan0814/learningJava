@@ -16,5 +16,6 @@ public class Laptop {
         System.out.println("笔记本关机");
 
     }
+
 }
 

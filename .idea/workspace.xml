@@ -5,25 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6de7af2-9cc8-4b00-ac65-bc6bcdc5090e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/KeyBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/LogMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Usb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Baozipu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Baozipu2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/z.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extend/src/com/atguigu/extend/JavaEeEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Search.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extend/src/com/atguigu/extend/SouImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Laptop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/extend/src/com/atguigu/extend/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/extend/com/atguigu/extend/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/extend/com/atguigu/extend/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/extend/com/atguigu/extend/JavaEeEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/extend/com/atguigu/extend/Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/extend/com/atguigu/extend/SouImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/extend/com/atguigu/extend/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/extend/com/atguigu/extend/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/extend/com/atguigu/extend/Mouse.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/extend/com/atguigu/extend/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/extend/com/atguigu/extend/Test01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +60,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.atguigu.studentManager" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.extend" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Test01">
@@ -116,7 +111,9 @@
       <workItem from="1720143158049" duration="44000" />
       <workItem from="1720598873049" duration="1131000" />
       <workItem from="1720668002613" duration="21422000" />
-      <workItem from="1721015404137" duration="10718000" />
+      <workItem from="1721015404137" duration="21540000" />
+      <workItem from="1721637688123" duration="13858000" />
+      <workItem from="1722324265545" duration="5478000" />
     </task>
     <servers />
   </component>
